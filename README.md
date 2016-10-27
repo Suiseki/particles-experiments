@@ -1,4 +1,5 @@
-# Some canvas experiments on particle generating, based on tutorial by Damian Wielgosik.
+# Some canvas experiments on particle generating, 
+based on tutorial by Damian Wielgosik.
 
 ## The purpose of the Experiments
 - explore canvas posibilities
